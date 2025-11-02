@@ -23,4 +23,4 @@ public class MainAfter {
 
         System.out.println("----------------------------------------");
     }
-}wa
+}
