@@ -22,6 +22,7 @@
         <module>11-Prototype</module>
         <module>12-Singleton</module>
         <module>13-Bridge</module>
+        <module>14-Composite</module>
     </modules>
 
     <properties>
