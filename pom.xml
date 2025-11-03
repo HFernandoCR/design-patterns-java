@@ -23,6 +23,8 @@
         <module>12-Singleton</module>
         <module>13-Bridge</module>
         <module>14-Composite</module>
+        <module>15-Decorator</module>
+        <module>16-Facade</module>
     </modules>
 
     <properties>
